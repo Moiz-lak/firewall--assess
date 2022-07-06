@@ -1,3 +1,9 @@
+"""####### ArcticWolf Firewall Assessment Script #######
+
+Authors:
+    - Moiz Lakdawala (moiz.lakdawala@arcticwolf.com)
+    - Ethan Berg (ethan.berg@arcticwolf.com)
+"""
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup as bs
